@@ -1,4 +1,4 @@
-![Movie popcorn on red background](redpopcorn.jpg)
+![Movie popcorn on red background](Dataset/redpopcorn.jpg)
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
@@ -311,7 +311,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](Dataset/output_8_0.png)
     
 
 
