@@ -1,4 +1,4 @@
-![Futuristic electric car charging](ev_charging.png)
+![Futuristic electric car charging](Dataset/ev_charging.png)
 
 The US Government's Alternative Fuels Data Center collects records of electric vehicle (EV) charging infrastructure, including charging ports and station locations, as well as sales of electric vehicles. With the EV market rapidly evolving, understanding trends in charging facilities and sales is essential to inform strategic planning.
 
@@ -1185,7 +1185,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](Dataset/output_29_0.png)
     
 
 
