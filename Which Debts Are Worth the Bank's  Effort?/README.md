@@ -134,7 +134,7 @@ plt.show()
 
 
     
-![png](output_3_1.png)
+![png](Dataset/output_3_1.png)
     
 
 
@@ -222,7 +222,7 @@ plt.show()
 
 
     
-![png](output_9_1.png)
+![png](Dataset/output_9_1.png)
     
 
 
