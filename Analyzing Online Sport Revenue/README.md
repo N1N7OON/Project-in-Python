@@ -1,5 +1,5 @@
 # Analyzing-Online-Sport-Revenue-with-Python
-![trainers in a store](trainers.jpg)
+![trainers in a store](Analyzing Online Sport Revenue/Dataset/trainers.jpg)
 
 Sports clothing and athleisure attire is a huge industry, worth approximately [$193 billion in 2021](https://www.statista.com/statistics/254489/total-revenue-of-the-global-sports-apparel-market/) with a strong growth forecast over the next decade! 
 
